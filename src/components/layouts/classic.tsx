@@ -1,6 +1,6 @@
 import ProductsGrid from '@components/products/grid';
-import Banner from '@components/banners/Banner';
-import PromotionSliders from '@components/promotions/Promotions';
+import Banner from '@components/banners/banner';
+import PromotionSliders from '@components/promotions/promotions';
 import Categories from '@components/categories/categories';
 import { Element } from 'react-scroll';
 import FilterBar from './filter-bar';
